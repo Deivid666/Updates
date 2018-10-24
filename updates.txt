@@ -1,0 +1,2930 @@
+﻿<!DOCTYPE html>
+<html id='ipsfocus' lang="en-US" dir="ltr" class='focus-g2 focus-guest focus-guest-alert focus-topic-compact focus-post-bar focus-post-buttons focus-social-inherit '>
+	<head>
+		<title>Game Updates - GamersFirst Forums</title>
+		
+		<!--[if lt IE 9]>
+			<link rel="stylesheet" type="text/css" href="//forums-cdn.gamersfirst.com/css_built_3/5e61784858ad3c11f00b5706d12afe52_ie8.css.84d069b394dc380a33bcb10b845502e2.css.gz">
+		    <script src="//forums.gamersfirst.com/applications/core/interface/html5shiv/html5shiv.js"></script>
+		<![endif]-->
+		
+<meta charset="utf-8">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+	<meta property="og:image" content="https://forums-cdn.gamersfirst.com/monthly_2018_06/gf_logo_share.png.debbbcb5c16fe9df079a75268f22e5a7.png">
+
+
+	<meta name="twitter:card" content="summary_large_image" />
+
+
+
+	
+		
+	
+
+	
+		
+			
+				<meta name="description" content="
+	You will find all updates and patch notes here.
+">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:title" content="Game Updates">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:description" content="
+	You will find all updates and patch notes here.
+">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:site_name" content="GamersFirst Forums">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:locale" content="en_US">
+			
+		
+	
+
+<meta name="theme-color" content="#2c2c2c">
+
+	
+		<link rel="canonical" href="https://forums.gamersfirst.com/forum/85-game-updates/" />
+	
+
+<link rel="alternate" type="application/rss+xml" title="Game Updates Latest Topics" href="https://forums.gamersfirst.com/forum/85-game-updates.xml/" />
+
+		<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" />
+		
+
+
+
+
+	<link rel='stylesheet' href='//forums-cdn.gamersfirst.com/css_built_3/341e4a57816af3ba440d891ca87450ff_framework.css.855127f9611554749bca81e2ef3ce43d.css.gz?v=db2f56e1f6' media='all'>
+
+	<link rel='stylesheet' href='//forums-cdn.gamersfirst.com/css_built_3/05e81b71abe4f22d6eb8d1a929494829_responsive.css.f443f7d72e1a3ef28151949b11bef37c.css.gz?v=db2f56e1f6' media='all'>
+
+	<link rel='stylesheet' href='//forums-cdn.gamersfirst.com/css_built_3/90eb5adf50a8c640f633d47fd7eb1778_core.css.85c0a63a3c7207d73a0a9633894f0b5d.css.gz?v=db2f56e1f6' media='all'>
+
+	<link rel='stylesheet' href='//forums-cdn.gamersfirst.com/css_built_3/5a0da001ccc2200dc5625c3f3934497d_core_responsive.css.ed779f6cf3a539b32c74bf7a2c60db42.css.gz?v=db2f56e1f6' media='all'>
+
+	<link rel='stylesheet' href='//forums-cdn.gamersfirst.com/css_built_3/62e269ced0fdab7e30e026f1d30ae516_forums.css.33551e7b03dad9c68e167df39fb4c885.css.gz?v=db2f56e1f6' media='all'>
+
+	<link rel='stylesheet' href='//forums-cdn.gamersfirst.com/css_built_3/76e62c573090645fb99a15a363d8620e_forums_responsive.css.9314700ec0a9fc9acf4f1270ceb4c6f9.css.gz?v=db2f56e1f6' media='all'>
+
+
+
+
+<link rel='stylesheet' href='//forums-cdn.gamersfirst.com/css_built_3/258adbb6e4f3e83cd3b355f84e3fa002_custom.css.fe474a6431ab8f67ceef976abe496e31.css.gz?v=db2f56e1f6' media='all'>
+
+
+
+		
+<script>
+var focushtml = document.getElementById('ipsfocus');
+function addClass(el, className) { if (el.classList) el.classList.add(className); else if (!hasClass(el, className)) el.className += ' ' + className; }
+function getCookie(name) { var v = document.cookie.match('(^|;) ?' + name + '=([^;]*)(;|$)'); return v ? v[2] : null; }
+function setCookie(name, value, days) { var d = new Date; d.setTime(d.getTime() + 24*60*60*1000*days); document.cookie = name + "=" + value + ";path=/;expires=" + d.toGMTString(); }
+function deleteCookie(name) { setCookie(name, '', -1); }
+
+
+
+</script>
+		
+
+	<script type='text/javascript'>
+		var ipsDebug = false;		
+	
+		var CKEDITOR_BASEPATH = '//forums.gamersfirst.com/applications/core/interface/ckeditor/ckeditor/';
+	
+		var ipsSettings = {
+			
+			
+			cookie_path: "/",
+			
+			cookie_prefix: "ips4_",
+			
+			
+			cookie_ssl: true,
+			
+			upload_imgURL: "",
+			message_imgURL: "",
+			notification_imgURL: "",
+			baseURL: "//forums.gamersfirst.com/",
+			jsURL: "//forums.gamersfirst.com/applications/core/interface/js/js.php",
+			csrfKey: "6335b84ecb4ddd137ae5fe30fe0a0e73",
+			antiCache: "db2f56e1f6",
+			disableNotificationSounds: false,
+			useCompiledFiles: true,
+			links_external: true,
+			memberID: 0,
+			analyticsProvider: "none",
+			viewProfiles: true,
+			mapProvider: 'none',
+			mapApiKey: '',
+			
+		};
+	</script>
+
+
+
+
+
+<script type='text/javascript' src='//forums.gamersfirst.com/applications/core/interface/howler/howler.core.min.js?v=db2f56e1f6' data-ips></script>
+
+
+<script type='text/javascript' src='//forums-cdn.gamersfirst.com/javascript_global/root_library.js.6401eb36e34510ded3706981d5d4bcf6.js.gz' data-ips></script>
+
+
+<script type='text/javascript' src='//forums-cdn.gamersfirst.com/javascript_global/root_js_lang_1.js.5b5fa6780e48606db673dad775b42d4e.js.gz' data-ips></script>
+
+
+<script type='text/javascript' src='//forums-cdn.gamersfirst.com/javascript_global/root_framework.js.0d09d8c683db727c027976a5846d5e33.js.gz' data-ips></script>
+
+
+<script type='text/javascript' src='//forums-cdn.gamersfirst.com/javascript_core/global_global_core.js.cd4538158990635acdfbe1a409be3ff6.js.gz' data-ips></script>
+
+
+<script type='text/javascript' src='//forums-cdn.gamersfirst.com/javascript_global/root_front.js.71dbe2ec149f3ea26570231d7f69aadc.js.gz' data-ips></script>
+
+
+<script type='text/javascript' src='//forums-cdn.gamersfirst.com/javascript_global/root_map.js.8cb0483fc843bf064b2e0ddb097d5f99.js.gz' data-ips></script>
+
+
+
+	<script type='text/javascript'>
+		
+			ips.setSetting( 'date_format', jQuery.parseJSON('"mm\/dd\/yy"') );
+		
+			ips.setSetting( 'date_first_day', jQuery.parseJSON('0') );
+		
+			ips.setSetting( 'remote_image_proxy', jQuery.parseJSON('0') );
+		
+			ips.setSetting( 'ipb_url_filter_option', jQuery.parseJSON('"none"') );
+		
+			ips.setSetting( 'url_filter_any_action', jQuery.parseJSON('"allow"') );
+		
+			ips.setSetting( 'bypass_profanity', jQuery.parseJSON('0') );
+		
+			ips.setSetting( 'emoji_style', jQuery.parseJSON('"twemoji"') );
+		
+			ips.setSetting( 'emoji_shortcodes', jQuery.parseJSON('"1"') );
+		
+			ips.setSetting( 'emoji_ascii', jQuery.parseJSON('"1"') );
+		
+			ips.setSetting( 'emoji_cache', jQuery.parseJSON('"1529617451"') );
+		
+		
+	</script>
+
+
+
+<script type='application/ld+json'>
+{
+    "@context": "http://www.schema.org",
+    "@type": "WebSite",
+    "name": "GamersFirst Forums",
+    "url": "https://forums.gamersfirst.com/",
+    "potentialAction": {
+        "type": "SearchAction",
+        "query-input": "required name=query",
+        "target": "https://forums.gamersfirst.com/search/?q={query}"
+    },
+    "inLanguage": [
+        {
+            "@type": "Language",
+            "name": "English (USA)",
+            "alternateName": "en-US"
+        }
+    ]
+}	
+</script>
+
+<script type='application/ld+json'>
+{
+    "@context": "http://www.schema.org",
+    "@type": "Organization",
+    "name": "GamersFirst Forums",
+    "url": "https://forums.gamersfirst.com/",
+    "logo": "//forums-cdn.gamersfirst.com/monthly_2018_05/gf_logo.png.bc9c4efc96163b64d6422162e27b858e.png",
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "",
+        "addressLocality": null,
+        "addressRegion": null,
+        "postalCode": null,
+        "addressCountry": null
+    }
+}	
+</script>
+
+<script type='application/ld+json'>
+{
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@id": "https://forums.gamersfirst.com/forum/3-apb-reloaded/",
+                "name": "APB Reloaded"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@id": "https://forums.gamersfirst.com/forum/4-news-announcements/",
+                "name": "News &amp; Announcements"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+                "@id": "https://forums.gamersfirst.com/forum/5-game-news/",
+                "name": "Game News"
+            }
+        }
+    ]
+}	
+</script>
+
+
+		
+		
+		
+<script type='text/javascript'>$(document).ready(function(){
+  
+function debounce(func, wait, immediate) { var timeout; return function() { var context = this, args = arguments; var later = function() { timeout = null; if (!immediate) func.apply(context, args); }; var callNow = immediate && !timeout; clearTimeout(timeout); timeout = setTimeout(later, wait); if (callNow) func.apply(context, args); }; };
+
+/* Desktop = 30, Tablet = 20, Mobile = 10 */
+var detectDevice = function(){ var grabPageWidth = $('body').css('min-width'); return parseFloat(grabPageWidth, 10); }
+detectDevice();
+
+// Relocate search bar
+var relocateSearch = function(){ if (detectDevice() > 25){ $("#elSearch").prependTo(".ipsfocus-search"); } else { $("#elSearch").prependTo(".mobile-search"); } }
+relocateSearch();
+
+var resizeWindow = function(){ var wClasses = "wDesktop wTablet wMobile"; if(detectDevice() === 30){ $("html").removeClass(wClasses).addClass("wDesktop"); } else if(detectDevice() === 20){ $("html").removeClass(wClasses).addClass("wTablet"); } else { $("html").removeClass(wClasses).addClass("wMobile"); }}
+resizeWindow();
+
+// Bug fix: The resize event is triggered when tablets and mobiles are scrolled, breaking the search bar in Android and Chrome
+var cachedDevice = detectDevice();
+
+// Run width functions after 500ms pause
+$(window).resize(debounce(function(){ var newDevice = detectDevice(); if(newDevice !== cachedDevice){
+	resizeWindow();
+	relocateSearch();
+	cachedDevice = newDevice;
+}}, 500));
+      
+
+/* Navigation */            
+function ipsfocusNavigation() {
+	
+	var navwidth = 0;
+	var morewidth = $('.ipsNavBar_primary .focus-nav-more').outerWidth(true);
+	$('.ipsNavBar_primary > ul > li:not(.focus-nav-more)').each(function() {
+		navwidth += $(this).outerWidth( true ) + 2;
+	});
+	var availablespace = $('.ipsNavBar_primary').outerWidth(true) - morewidth;
+	if (availablespace > 0 && navwidth > availablespace) {
+		var lastItem = $('.ipsNavBar_primary > ul > li:not(.focus-nav-more)').last();
+		lastItem.attr('data-width', lastItem.outerWidth(true));
+		lastItem.prependTo($('.ipsNavBar_primary .focus-nav-more > ul'));
+		ipsfocusNavigation();
+	} else {
+		var firstMoreElement = $('.ipsNavBar_primary li.focus-nav-more li').first();
+		if (navwidth + firstMoreElement.data('width') < availablespace) {
+			firstMoreElement.insertBefore($('.ipsNavBar_primary .focus-nav-more'));
+		}
+	}
+	
+	if ($('.focus-nav-more li').length > 0) {
+		$('.focus-nav-more').removeClass('focus-nav-hidden');
+	} else {
+		$('.focus-nav-more').addClass('focus-nav-hidden');
+	}
+	
+}
+
+$(window).on('load',function(){
+	$(".ipsNavBar_primary").removeClass("focus-nav-loading");
+  	ipsfocusNavigation();
+});
+
+$(window).on('resize',function(){
+	ipsfocusNavigation();
+});
+
+// Make hover navigation work with touch devices
+// http://osvaldas.info/drop-down-navigation-responsive-and-touch-friendly
+;(function(e,t,n,r){e.fn.doubleTapToGo=function(r){if(!("ontouchstart"in t)&&!navigator.msMaxTouchPoints&&!navigator.userAgent.toLowerCase().match(/windows phone os 7/i))return false;this.each(function(){var t=false;e(this).on("click",function(n){var r=e(this);if(r[0]!=t[0]){n.preventDefault();t=r}});e(n).on("click touchstart MSPointerDown",function(n){var r=true,i=e(n.target).parents();for(var s=0;s<i.length;s++)if(i[s]==t[0])r=false;if(r)t=false})});return this}})(jQuery,window,document);
+
+$('.ipsNavBar_primary > ul > li:has(ul)').doubleTapToGo();
+
+// Hide post controls if empty
+$(".cPost .ipsComment_controls li.ipsHide:only-child").closest('.ipsItemControls').addClass('iIC-no-buttons');
+$(".cPost .ipsReact .ipsReact_blurb.ipsHide:only-child").closest('.ipsItemControls').addClass('iIC-no-react');
+
+
+// Assign feature colour to icon if the transparent setting is enabled
+$(".ipsItemStatus_large[style]").each(function(){
+	var feature = $(this).attr('data-feature');
+	$(this).css( "color", feature );
+});
+
+    
+// Toggle class
+$('[data-class]').on( "click", function(event) {
+	event.preventDefault();
+	var classContent = $(this).attr('data-class');
+	var classModifiers = classContent.split(' ');
+	var className = classModifiers[0];
+	var modifyClass = classModifiers[1];
+	if (classModifiers[2]){
+		var targetElement = classModifiers[2];
+	} else {
+		var targetElement = 'html';
+	}
+	if (modifyClass === 'add'){
+		$(targetElement).addClass(className);
+	} else if (modifyClass === 'remove'){
+		$(targetElement).removeClass(className);
+	} else {
+		$(targetElement).toggleClass(className);
+	}
+});
+
+});</script>
+		
+		
+		
+
+		
+		
+
+	<link rel='shortcut icon' href='//forums-cdn.gamersfirst.com/monthly_2018_05/gf_icon.ico.8d92d23ff4b4a4a2a41a46166833788b.ico'>
+
+	</head>
+	<body class='ipsApp ipsApp_front ipsJS_has ipsClearfix' data-controller='core.front.core.app' data-message="" data-pageApp='forums' data-pageLocation='front' data-pageModule='forums' data-pageController='forums'>
+		
+		<a href='#elContent' class='ipsHide' title='Go to main content on this page' accesskey='m'>Jump to content</a>
+		
+		<div class="background-fade"><div class="background-fade-image"></div></div>
+      
+		<div class='content-layer'>
+		
+			
+<div class='mobile-nav-wrap'>
+	<ul id='elMobileNav' class='ipsList_inline ipsResponsive_hideDesktop ipsResponsive_block' data-controller='core.front.core.mobileNav'>
+		
+			
+				
+				
+					
+					
+				
+					
+					
+				
+					
+						<li id='elMobileBreadcrumb'>
+							<a href='https://forums.gamersfirst.com/forum/5-game-news/'>
+								<span>Game News</span>
+							</a>
+						</li>
+					
+					
+				
+					
+					
+				
+			
+		
+	  
+		<li class='mobileNav-home'>
+			<a href='https://forums.gamersfirst.com/'><i class="fa fa-home" aria-hidden="true"></i></a>
+		</li>
+		
+		
+		<li >
+			<a data-action="defaultStream" class='ipsType_light'  href='https://forums.gamersfirst.com/discover/'><i class='icon-newspaper'></i></a>
+		</li>
+
+		
+			<li class='ipsJS_show'>
+				<a href='https://forums.gamersfirst.com/search/' data-class='show-mobile-search-wrap'><i class='fa fa-search'></i></a>
+			</li>
+		
+		<li data-ipsDrawer data-ipsDrawer-drawerElem='#elMobileDrawer'>
+			<a href='#'>
+				
+				
+					
+				
+				
+				
+				<i class='fa fa-navicon'></i>
+			</a>
+		</li>
+	</ul>
+	
+	<div class='mobile-search-wrap'>
+		<div class='mobile-search'></div>
+	</div>
+	
+</div>
+			
+			<div class='ipsLayout_container'>				
+				
+				<div id='ipsLayout_header'>
+					<header id='header'>
+						<div class='header-align'>
+							<div class='logo-wrap'>
+
+
+<a href='https://forums.gamersfirst.com/' class='logo' accesskey='1'><img src="//forums-cdn.gamersfirst.com/monthly_2018_05/gf_logo.png.bc9c4efc96163b64d6422162e27b858e.png" alt='GamersFirst Forums'></a>
+</div>
+							<div class='ipsfocus-search'></div>
+						</div>
+					</header>
+					<div class='nav-bar-wrap'>
+						<div class='ipsfocus-blur'></div>
+						<div class='nav-bar'>
+							<div class='secondary-header-align'>
+								<div class='focus-nav'>
+
+	<nav>
+		<div class='ipsNavBar_primary focus-nav-loading'>
+			
+
+	<div id="elSearchWrapper" class="ipsPos_right">
+		<div id='elSearch' class='' data-controller='core.front.core.quickSearch'>
+			<form accept-charset='utf-8' action='//forums.gamersfirst.com/search/?do=quicksearch' method='post'>
+				<input type='search' id='elSearchField' placeholder='Search...' name='q' autocomplete='off'>
+				<button class='cSearchSubmit' type="submit"><i class="fa fa-search"></i></button>
+				<div id="elSearchExpanded">
+					<div class="ipsMenu_title">
+						Search In
+					</div>
+					<ul class="ipsSideMenu_list ipsSideMenu_withRadios ipsSideMenu_small ipsType_normal" data-ipsSideMenu data-ipsSideMenu-type="radio" data-ipsSideMenu-responsive="false" data-role="searchContexts">
+						<li>
+							<span class='ipsSideMenu_item ipsSideMenu_itemActive' data-ipsMenuValue='all'>
+								<input type="radio" name="type" value="all" checked id="elQuickSearchRadio_type_all">
+								<label for='elQuickSearchRadio_type_all' id='elQuickSearchRadio_type_all_label'>Everywhere</label>
+							</span>
+						</li>
+						
+						
+							<li>
+								<span class='ipsSideMenu_item' data-ipsMenuValue='forums_topic'>
+									<input type="radio" name="type" value="forums_topic" id="elQuickSearchRadio_type_forums_topic">
+									<label for='elQuickSearchRadio_type_forums_topic' id='elQuickSearchRadio_type_forums_topic_label'>Topics</label>
+								</span>
+							</li>
+						
+						
+							
+								<li>
+									<span class='ipsSideMenu_item' data-ipsMenuValue='contextual_{&quot;type&quot;:&quot;forums_topic&quot;,&quot;nodes&quot;:85}'>
+										<input type="radio" name="type" value='contextual_{&quot;type&quot;:&quot;forums_topic&quot;,&quot;nodes&quot;:85}' id='elQuickSearchRadio_type_contextual_{&quot;type&quot;:&quot;forums_topic&quot;,&quot;nodes&quot;:85}'>
+										<label for='elQuickSearchRadio_type_contextual_{&quot;type&quot;:&quot;forums_topic&quot;,&quot;nodes&quot;:85}' id='elQuickSearchRadio_type_contextual_{&quot;type&quot;:&quot;forums_topic&quot;,&quot;nodes&quot;:85}_label'>This Forum</label>
+									</span>
+								</li>
+							
+						
+						<li data-role="showMoreSearchContexts">
+							<span class='ipsSideMenu_item' data-action="showMoreSearchContexts" data-exclude="forums_topic">
+								More options...
+							</span>
+						</li>
+					</ul>
+					<div class="ipsMenu_title">
+						Find results that contain...
+					</div>
+					<ul class='ipsSideMenu_list ipsSideMenu_withRadios ipsSideMenu_small ipsType_normal' role="radiogroup" data-ipsSideMenu data-ipsSideMenu-type="radio" data-ipsSideMenu-responsive="false" data-filterType='andOr'>
+						
+							<li>
+								<span class='ipsSideMenu_item ipsSideMenu_itemActive' data-ipsMenuValue='or'>
+									<input type="radio" name="search_and_or" value="or" checked id="elRadio_andOr_or">
+									<label for='elRadio_andOr_or' id='elField_andOr_label_or'><em>Any</em> of my search term words</label>
+								</span>
+							</li>
+						
+							<li>
+								<span class='ipsSideMenu_item ' data-ipsMenuValue='and'>
+									<input type="radio" name="search_and_or" value="and"  id="elRadio_andOr_and">
+									<label for='elRadio_andOr_and' id='elField_andOr_label_and'><em>All</em> of my search term words</label>
+								</span>
+							</li>
+						
+					</ul>
+					<div class="ipsMenu_title">
+						Find results in...
+					</div>
+					<ul class='ipsSideMenu_list ipsSideMenu_withRadios ipsSideMenu_small ipsType_normal' role="radiogroup" data-ipsSideMenu data-ipsSideMenu-type="radio" data-ipsSideMenu-responsive="false" data-filterType='searchIn'>
+						<li>
+							<span class='ipsSideMenu_item ipsSideMenu_itemActive' data-ipsMenuValue='all'>
+								<input type="radio" name="search_in" value="all" checked id="elRadio_searchIn_and">
+								<label for='elRadio_searchIn_and' id='elField_searchIn_label_all'>Content titles and body</label>
+							</span>
+						</li>
+						<li>
+							<span class='ipsSideMenu_item' data-ipsMenuValue='titles'>
+								<input type="radio" name="search_in" value="titles" id="elRadio_searchIn_titles">
+								<label for='elRadio_searchIn_titles' id='elField_searchIn_label_titles'>Content titles only</label>
+							</span>
+						</li>
+					</ul>
+				</div>
+			</form>
+		</div>
+	</div>
+
+			<ul data-role="primaryNavBar">
+				
+
+
+	
+		
+		
+			
+		
+		<li class='ipsNavBar_active' data-active id='elNavSecondary_1' data-role="navBarItem" data-navApp="core" data-navExt="CustomItem">
+			
+			
+				<a href="https://forums.gamersfirst.com"  data-navItem-id="1" data-navDefault class='nav-arrow'>
+					Browse<i class='fa fa-caret-down'></i>
+				</a>
+			
+			
+				<ul class='ipsNavBar_secondary ' data-role='secondaryNavBar'>
+					
+
+
+	
+	
+
+	
+		
+		
+			
+		
+		<li class='ipsNavBar_active' data-active id='elNavSecondary_10' data-role="navBarItem" data-navApp="forums" data-navExt="Forums">
+			
+			
+				<a href="https://forums.gamersfirst.com"  data-navItem-id="10" data-navDefault >
+					Forums
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_11' data-role="navBarItem" data-navApp="core" data-navExt="Guidelines">
+			
+			
+				<a href="https://forums.gamersfirst.com/guidelines/"  data-navItem-id="11"  >
+					Forum Rules
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_12' data-role="navBarItem" data-navApp="core" data-navExt="StaffDirectory">
+			
+			
+				<a href="https://forums.gamersfirst.com/staff/"  data-navItem-id="12"  >
+					Staff
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_13' data-role="navBarItem" data-navApp="core" data-navExt="OnlineUsers">
+			
+			
+				<a href="https://forums.gamersfirst.com/online/"  data-navItem-id="13"  >
+					Online Users
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+	
+
+					<li class='ipsHide' id='elNavigationMore_1' data-role='navMore'>
+						<a href='#' data-ipsMenu data-ipsMenu-appendTo='#elNavigationMore_1' id='elNavigationMore_1_dropdown'>More <i class='fa fa-caret-down'></i></a>
+						<ul class='ipsHide ipsMenu ipsMenu_auto' id='elNavigationMore_1_dropdown_menu' data-role='moreDropdown'></ul>
+					</li>
+				</ul>
+			
+		</li>
+	
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_2' data-role="navBarItem" data-navApp="core" data-navExt="CustomItem">
+			
+			
+				<a href="https://forums.gamersfirst.com/discover/"  data-navItem-id="2"  class='nav-arrow'>
+					Activity<i class='fa fa-caret-down'></i>
+				</a>
+			
+			
+				<ul class='ipsNavBar_secondary ipsHide' data-role='secondaryNavBar'>
+					
+
+
+	
+		
+		
+		<li  id='elNavSecondary_4' data-role="navBarItem" data-navApp="core" data-navExt="AllActivity">
+			
+			
+				<a href="https://forums.gamersfirst.com/discover/"  data-navItem-id="4"  >
+					All Activity
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_17' data-role="navBarItem" data-navApp="core" data-navExt="YourActivityStreamsItem">
+			
+			
+				<a href="https://forums.gamersfirst.com/discover/6/"  data-navItem-id="17"  >
+					Admin Tracker
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+	
+
+	
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_8' data-role="navBarItem" data-navApp="core" data-navExt="Search">
+			
+			
+				<a href="https://forums.gamersfirst.com/search/"  data-navItem-id="8"  >
+					Search
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+	
+
+					<li class='ipsHide' id='elNavigationMore_2' data-role='navMore'>
+						<a href='#' data-ipsMenu data-ipsMenu-appendTo='#elNavigationMore_2' id='elNavigationMore_2_dropdown'>More <i class='fa fa-caret-down'></i></a>
+						<ul class='ipsHide ipsMenu ipsMenu_auto' id='elNavigationMore_2_dropdown_menu' data-role='moreDropdown'></ul>
+					</li>
+				</ul>
+			
+		</li>
+	
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_16' data-role="navBarItem" data-navApp="core" data-navExt="CustomItem">
+			
+			
+				<a href="https://forums.gamersfirst.com/guidelines/"  data-navItem-id="16"  >
+					Forum Rules
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_15' data-role="navBarItem" data-navApp="core" data-navExt="CustomItem">
+			
+			
+				<a href="https://support.gamersfirst.com" target='_blank' rel="noopener" data-navItem-id="15"  >
+					Support
+				</a>
+			
+			
+		</li>
+	
+	
+
+				<li class="focus-nav-more focus-nav-hidden">
+                	<a href="#"> More <i class="fa fa-caret-down"></i></a>
+                	<ul class='ipsNavBar_secondary'></ul>
+                </li>
+			</ul>
+		</div>
+	</nav>
+</div>
+								<div class='user-links user-links-b'>
+
+	<ul id='elUserNav' class='ipsList_inline cSignedOut'>
+		
+		<li id='elSignInLink'>
+			<a href='https://forums.gamersfirst.com/login/' data-ipsMenu-closeOnClick="false" data-ipsMenu id='elUserSignIn'>
+				Existing user? Sign In &nbsp;<i class='fa fa-caret-down'></i>
+			</a>
+			
+<div id='elUserSignIn_menu' class='ipsMenu ipsMenu_auto ipsHide'>
+	<form accept-charset='utf-8' method='post' action='https://forums.gamersfirst.com/login/' data-controller="core.global.core.login">
+		<input type="hidden" name="csrfKey" value="6335b84ecb4ddd137ae5fe30fe0a0e73">
+		<input type="hidden" name="ref" value="aHR0cHM6Ly9mb3J1bXMuZ2FtZXJzZmlyc3QuY29tL2ZvcnVtLzg1LWdhbWUtdXBkYXRlcy8=">
+		<div data-role="loginForm">
+			
+			
+			
+				<div class="cLogin_popupSingle">
+					
+						<div class='ipsPad_half ipsType_center'>
+							
+
+<button type="submit" name="_processLogin" value="2" class='ipsButton ipsButton_verySmall ipsButton_fullWidth ipsSocial ' style="background-color: #01344f">
+	
+		<span class='ipsSocial_icon'>
+			
+				<i class='fa fa-sign-in'></i>
+			
+		</span>
+		<span class='ipsSocial_text'>Sign in with GamersFirst</span>
+	
+</button>
+						</div>
+					
+				</div>
+			
+		</div>
+	</form>
+</div>
+		</li>
+		
+			<li>
+				
+					<a href='https://register.gamersfirst.com' target="_blank" rel="noopener">Sign Up</a>
+				
+			</li>
+		
+		
+	</ul>
+</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<main id='ipsLayout_body' class='ipsLayout_container'>
+					<div class='content-wrap'>
+						
+						<div class='content-padding'>
+						
+							<div class='precontent-blocks'>
+								
+								<div class='ipsfocus-breadcrumb'>
+									
+<nav class='ipsBreadcrumb ipsBreadcrumb_top ipsFaded_withHover'>
+	
+
+	<ul class='ipsList_inline ipsPos_right'>
+		
+		<li >
+			<a data-action="defaultStream" class='ipsType_light '  href='https://forums.gamersfirst.com/discover/'><i class='icon-newspaper'></i> <span>All Activity</span></a>
+		</li>
+		
+	</ul>
+
+	<ul data-role="breadcrumbList">
+		<li>
+			<a title="Home" href='https://forums.gamersfirst.com/'>
+				<span><i class='fa fa-home'></i> Home <i class='fa fa-angle-right'></i></span>
+			</a>
+		</li>
+		
+		
+			<li>
+				
+					<a href='https://forums.gamersfirst.com/forum/3-apb-reloaded/'>
+						<span>APB Reloaded <i class='fa fa-angle-right'></i></span>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					<a href='https://forums.gamersfirst.com/forum/4-news-announcements/'>
+						<span>News &amp; Announcements <i class='fa fa-angle-right'></i></span>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					<a href='https://forums.gamersfirst.com/forum/5-game-news/'>
+						<span>Game News <i class='fa fa-angle-right'></i></span>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					Game Updates
+				
+			</li>
+		
+	</ul>
+</nav>
+									
+<ul class='ipsfocus_social iconButtons'>
+	<li><a href="https://www.facebook.com/GamersFirst/" target="_blank">Facebook</a></li>
+</ul>
+								</div>
+								
+								
+								
+								
+								
+
+
+
+
+								
+
+
+								
+								
+								
+								
+								
+							</div>
+							
+							<div id='ipsLayout_contentArea'>
+								<div id='ipsLayout_contentWrapper'>
+									
+									<div id='ipsLayout_mainArea'>
+										<a id='elContent'></a>
+										
+										
+										
+										
+
+	
+
+
+	<div class='cAnnouncementsContent'>
+		
+		<div class='cAnnouncementContentTop ipsMessage ipsMessage_error ipsType_center'>
+			<a href='https://forums.gamersfirst.com/announcement/3-forum-rules/' data-ipsDialog data-ipsDialog-title="Forum rules">Forum rules</a>
+		</div>
+		
+	</div>
+
+
+
+										
+
+
+
+
+	
+	<div class="ipsPageHeader ipsClearfix">
+		<header class='ipsSpacer_bottom'>
+			
+			<h1 class="ipsType_pageTitle">Game Updates</h1>
+			
+				<div class='ipsPos_right ipsResponsive_noFloat ipsResponsive_hidePhone'>
+					
+
+<div data-followApp='forums' data-followArea='forum' data-followID='85' data-controller='core.front.core.followButton'>
+	
+		<span class='ipsType_light ipsType_blendLinks ipsResponsive_hidePhone ipsResponsive_inline'><i class='fa fa-info-circle'></i> <a href='https://forums.gamersfirst.com/login/' title='Go to the sign in page'>Sign in to follow this</a>&nbsp;&nbsp;</span>
+	
+	
+
+	<div class="ipsFollow ipsPos_middle ipsButton ipsButton_link ipsButton_verySmall " data-role="followButton">
+		
+			<a href='https://forums.gamersfirst.com/index.php?app=core&amp;module=system&amp;controller=notifications&amp;do=followers&amp;follow_app=forums&amp;follow_area=forum&amp;follow_id=85' title='See who follows this' class='ipsType_blendLinks ipsType_noUnderline' data-ipsTooltip data-ipsDialog data-ipsDialog-size='narrow' data-ipsDialog-title='Who follows this'>Followers</a>
+			<a class='ipsCommentCount' href='https://forums.gamersfirst.com/index.php?app=core&amp;module=system&amp;controller=notifications&amp;do=followers&amp;follow_app=forums&amp;follow_area=forum&amp;follow_id=85' title='See who follows this' data-ipsTooltip data-ipsDialog data-ipsDialog-size='narrow' data-ipsDialog-title='Who follows this'>9</a>
+		
+	</div>
+
+</div>
+				</div>
+			
+			
+				<div class='ipsType_richText ipsType_normal'>
+					<p>
+	You will find all updates and patch notes here.
+</p>
+				</div>
+			
+
+			
+		</header>
+	</div>
+	
+	
+
+<div data-controller='forums.front.forum.forumPage'>
+	<ul class="ipsToolList ipsToolList_horizontal ipsClearfix ipsSpacer_both">
+		
+
+
+	</ul>
+	
+<div class='ipsBox' data-baseurl='https://forums.gamersfirst.com/forum/85-game-updates/?page=1' data-resort='listResort' data-tableID='topics'  data-controller='core.global.core.table'>
+	
+		<h2 class='ipsType_sectionTitle ipsHide ipsType_medium ipsType_reset ipsClear'>17 topics in this forum</h2>
+	
+
+	
+	<div class="ipsButtonBar ipsPad_half ipsClearfix ipsClear">
+		
+
+		<ul class="ipsButtonRow ipsPos_right ipsClearfix">
+			
+				<li>
+					<a href="#elSortByMenu_menu" id="elSortByMenu_bc62499fd5dbc83b2e24115b6e2cd338" data-role='sortButton' data-ipsMenu data-ipsMenu-activeClass="ipsButtonRow_active" data-ipsMenu-selectable="radio">Sort By <i class="fa fa-caret-down"></i></a>
+					<ul class="ipsMenu ipsMenu_auto ipsMenu_withStem ipsMenu_selectable ipsHide" id="elSortByMenu_bc62499fd5dbc83b2e24115b6e2cd338_menu">
+						
+						
+							<li class="ipsMenu_item ipsMenu_itemChecked" data-ipsMenuValue="last_post" data-sortDirection='desc'><a href="https://forums.gamersfirst.com/forum/85-game-updates/?page=1&amp;sortby=last_post&amp;sortdirection=desc">Recently Updated</a></li>
+						
+							<li class="ipsMenu_item " data-ipsMenuValue="last_real_post" data-sortDirection='desc'><a href="https://forums.gamersfirst.com/forum/85-game-updates/?page=1&amp;sortby=last_real_post&amp;sortdirection=desc">Last Reply</a></li>
+						
+							<li class="ipsMenu_item " data-ipsMenuValue="title" data-sortDirection='asc'><a href="https://forums.gamersfirst.com/forum/85-game-updates/?page=1&amp;sortby=title&amp;sortdirection=asc">Title</a></li>
+						
+							<li class="ipsMenu_item " data-ipsMenuValue="start_date" data-sortDirection='desc'><a href="https://forums.gamersfirst.com/forum/85-game-updates/?page=1&amp;sortby=start_date&amp;sortdirection=desc">Start Date</a></li>
+						
+							<li class="ipsMenu_item " data-ipsMenuValue="views" data-sortDirection='desc'><a href="https://forums.gamersfirst.com/forum/85-game-updates/?page=1&amp;sortby=views&amp;sortdirection=desc">Most Viewed</a></li>
+						
+							<li class="ipsMenu_item " data-ipsMenuValue="posts" data-sortDirection='desc'><a href="https://forums.gamersfirst.com/forum/85-game-updates/?page=1&amp;sortby=posts&amp;sortdirection=desc">Most Replies</a></li>
+						
+						
+							<li class="ipsMenu_item " data-noSelect="true">
+								<a href='https://forums.gamersfirst.com/forum/85-game-updates/?page=1&amp;advancedSearchForm=1&amp;sortby=forums_topics.last_post&amp;sortdirection=DESC' data-ipsDialog data-ipsDialog-title='Custom Sort'>Custom</a>
+							</li>
+						
+					</ul>
+				</li>
+			
+			
+		</ul>
+
+		
+	</div>
+	
+	
+		
+			<ol class='ipsDataList ipsDataList_zebra ipsClear cForumTopicTable  cTopicList ' id='elTable_bc62499fd5dbc83b2e24115b6e2cd338' data-role="tableRows">
+				
+
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+	
+	
+		
+		
+		
+		
+			<li class="ipsDataItem ipsDataItem_responsivePhoto   " data-rowID='5970'>
+				
+				<div class='ipsDataItem_main'>
+					<h4 class='ipsDataItem_title ipsContained_container'>
+						
+							<span>
+								<i class='ipsType_medium fa fa-lock' data-ipsTooltip title='This topic is locked'></i>
+							</span>	
+							
+						
+
+						
+						
+						
+														
+							
+								<span><span class="ipsBadge ipsBadge_icon ipsBadge_small ipsBadge_positive" data-ipsTooltip title='Pinned'><i class='fa fa-thumb-tack'></i></span></span>
+							
+							
+						
+										
+												
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://forums.gamersfirst.com/topic/5970-pc-patch-1197-1023/' class='' title='[PC] Patch 1.19.7 (1023) '  data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/topic/5970-pc-patch-1197-1023/?preview=1' data-ipsHover-timeout='1.5'>
+								<span>
+									[PC] Patch 1.19.7 (1023)
+								</span>
+							</a>
+
+							
+						</span>
+					</h4>
+					<div class='ipsDataItem_meta ipsType_reset ipsType_light ipsType_blendLinks'>
+						<span>
+							By 
+<a href='https://forums.gamersfirst.com/profile/8-lixil/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/8-lixil/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Lixil's profile" class="ipsType_break">Lixil</a>, 
+						</span><time datetime='2018-10-03T00:34:37Z' title='10/03/18 03:34  AM' data-short='Oct 3'>October 3</time>
+						
+						
+					</div>
+				</div>
+				<ul class='ipsDataItem_stats'>
+					
+						<li >
+							<span class='ipsDataItem_stats_number'>0</span>
+							<span class='ipsDataItem_stats_type'> replies</span>
+							
+						</li>
+					
+						<li class='ipsType_light'>
+							<span class='ipsDataItem_stats_number'>2541</span>
+							<span class='ipsDataItem_stats_type'> views</span>
+							
+						</li>
+					
+				</ul>
+				<ul class='ipsDataItem_lastPoster ipsDataItem_withPhoto ipsType_blendLinks'>
+					<li>
+						
+							
+
+
+	<a href="https://forums.gamersfirst.com/profile/8-lixil/" data-ipsHover data-ipsHover-target="https://forums.gamersfirst.com/profile/8-lixil/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Lixil's profile">
+		<img src='//forums-cdn.gamersfirst.com/monthly_2018_05/25281407_101299725653521ba766c1e.thumb.png.10842b13fca4efbd73c188b9aff9cca6.png' alt='Lixil'>
+	</a>
+
+						
+					</li>
+					<li>
+						
+							
+<a href='https://forums.gamersfirst.com/profile/8-lixil/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/8-lixil/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Lixil's profile" class="ipsType_break">Lixil</a>
+						
+					</li>
+					<li class="ipsType_light">
+						<a href='https://forums.gamersfirst.com/topic/5970-pc-patch-1197-1023/?do=getLastComment' title='Go to last post' class='ipsType_blendLinks'>
+							<time datetime='2018-10-03T00:34:37Z' title='10/03/18 03:34  AM' data-short='Oct 3'>October 3</time>
+						</a>
+					</li>
+				</ul>
+				
+			</li>
+		
+	
+		
+		
+		
+		
+			<li class="ipsDataItem ipsDataItem_responsivePhoto   " data-rowID='5785'>
+				
+				<div class='ipsDataItem_main'>
+					<h4 class='ipsDataItem_title ipsContained_container'>
+						
+							<span>
+								<i class='ipsType_medium fa fa-lock' data-ipsTooltip title='This topic is locked'></i>
+							</span>	
+							
+						
+
+						
+						
+						
+														
+							
+								<span><span class="ipsBadge ipsBadge_icon ipsBadge_small ipsBadge_positive" data-ipsTooltip title='Pinned'><i class='fa fa-thumb-tack'></i></span></span>
+							
+							
+						
+										
+												
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://forums.gamersfirst.com/topic/5785-pc-patch-1197-1019/' class='' title='[PC] Patch 1.19.7 (1019) '  data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/topic/5785-pc-patch-1197-1019/?preview=1' data-ipsHover-timeout='1.5'>
+								<span>
+									[PC] Patch 1.19.7 (1019)
+								</span>
+							</a>
+
+							
+						</span>
+					</h4>
+					<div class='ipsDataItem_meta ipsType_reset ipsType_light ipsType_blendLinks'>
+						<span>
+							By 
+<a href='https://forums.gamersfirst.com/profile/13-selali/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/13-selali/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Selali's profile" class="ipsType_break">Selali</a>, 
+						</span><time datetime='2018-09-21T03:31:03Z' title='09/21/18 06:31  AM' data-short='Sep 21'>September 21</time>
+						
+						
+					</div>
+				</div>
+				<ul class='ipsDataItem_stats'>
+					
+						<li >
+							<span class='ipsDataItem_stats_number'>0</span>
+							<span class='ipsDataItem_stats_type'> replies</span>
+							
+						</li>
+					
+						<li class='ipsType_light'>
+							<span class='ipsDataItem_stats_number'>2362</span>
+							<span class='ipsDataItem_stats_type'> views</span>
+							
+						</li>
+					
+				</ul>
+				<ul class='ipsDataItem_lastPoster ipsDataItem_withPhoto ipsType_blendLinks'>
+					<li>
+						
+							
+
+
+	<a href="https://forums.gamersfirst.com/profile/13-selali/" data-ipsHover data-ipsHover-target="https://forums.gamersfirst.com/profile/13-selali/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Selali's profile">
+		<img src='//forums-cdn.gamersfirst.com/monthly_2018_05/319394576_jakeicon.thumb.png.95801df106d819280b8c2af0c87ba6de.png' alt='Selali'>
+	</a>
+
+						
+					</li>
+					<li>
+						
+							
+<a href='https://forums.gamersfirst.com/profile/13-selali/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/13-selali/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Selali's profile" class="ipsType_break">Selali</a>
+						
+					</li>
+					<li class="ipsType_light">
+						<a href='https://forums.gamersfirst.com/topic/5785-pc-patch-1197-1019/?do=getLastComment' title='Go to last post' class='ipsType_blendLinks'>
+							<time datetime='2018-09-21T03:31:03Z' title='09/21/18 06:31  AM' data-short='Sep 21'>September 21</time>
+						</a>
+					</li>
+				</ul>
+				
+			</li>
+		
+	
+		
+		
+		
+		
+			<li class="ipsDataItem ipsDataItem_responsivePhoto   " data-rowID='5724'>
+				
+				<div class='ipsDataItem_main'>
+					<h4 class='ipsDataItem_title ipsContained_container'>
+						
+							<span>
+								<i class='ipsType_medium fa fa-lock' data-ipsTooltip title='This topic is locked'></i>
+							</span>	
+							
+						
+
+						
+						
+						
+														
+							
+								<span><span class="ipsBadge ipsBadge_icon ipsBadge_small ipsBadge_positive" data-ipsTooltip title='Pinned'><i class='fa fa-thumb-tack'></i></span></span>
+							
+							
+						
+										
+												
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://forums.gamersfirst.com/topic/5724-pc-patch-1197-1018/' class='' title='[PC] Patch 1.19.7 (1018) '  data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/topic/5724-pc-patch-1197-1018/?preview=1' data-ipsHover-timeout='1.5'>
+								<span>
+									[PC] Patch 1.19.7 (1018)
+								</span>
+							</a>
+
+							
+						</span>
+					</h4>
+					<div class='ipsDataItem_meta ipsType_reset ipsType_light ipsType_blendLinks'>
+						<span>
+							By 
+<a href='https://forums.gamersfirst.com/profile/8-lixil/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/8-lixil/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Lixil's profile" class="ipsType_break">Lixil</a>, 
+						</span><time datetime='2018-09-19T02:24:00Z' title='09/19/18 05:24  AM' data-short='Sep 19'>September 19</time>
+						
+						
+					</div>
+				</div>
+				<ul class='ipsDataItem_stats'>
+					
+						<li >
+							<span class='ipsDataItem_stats_number'>0</span>
+							<span class='ipsDataItem_stats_type'> replies</span>
+							
+						</li>
+					
+						<li class='ipsType_light'>
+							<span class='ipsDataItem_stats_number'>2597</span>
+							<span class='ipsDataItem_stats_type'> views</span>
+							
+						</li>
+					
+				</ul>
+				<ul class='ipsDataItem_lastPoster ipsDataItem_withPhoto ipsType_blendLinks'>
+					<li>
+						
+							
+
+
+	<a href="https://forums.gamersfirst.com/profile/8-lixil/" data-ipsHover data-ipsHover-target="https://forums.gamersfirst.com/profile/8-lixil/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Lixil's profile">
+		<img src='//forums-cdn.gamersfirst.com/monthly_2018_05/25281407_101299725653521ba766c1e.thumb.png.10842b13fca4efbd73c188b9aff9cca6.png' alt='Lixil'>
+	</a>
+
+						
+					</li>
+					<li>
+						
+							
+<a href='https://forums.gamersfirst.com/profile/8-lixil/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/8-lixil/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Lixil's profile" class="ipsType_break">Lixil</a>
+						
+					</li>
+					<li class="ipsType_light">
+						<a href='https://forums.gamersfirst.com/topic/5724-pc-patch-1197-1018/?do=getLastComment' title='Go to last post' class='ipsType_blendLinks'>
+							<time datetime='2018-09-19T02:24:00Z' title='09/19/18 05:24  AM' data-short='Sep 19'>September 19</time>
+						</a>
+					</li>
+				</ul>
+				
+			</li>
+		
+	
+		
+		
+		
+		
+			<li class="ipsDataItem ipsDataItem_responsivePhoto   " data-rowID='5521'>
+				
+				<div class='ipsDataItem_main'>
+					<h4 class='ipsDataItem_title ipsContained_container'>
+						
+							<span>
+								<i class='ipsType_medium fa fa-lock' data-ipsTooltip title='This topic is locked'></i>
+							</span>	
+							
+						
+
+						
+						
+						
+														
+							
+								<span><span class="ipsBadge ipsBadge_icon ipsBadge_small ipsBadge_positive" data-ipsTooltip title='Pinned'><i class='fa fa-thumb-tack'></i></span></span>
+							
+							
+						
+										
+												
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://forums.gamersfirst.com/topic/5521-pc-patch-1196/' class='' title='[PC] Patch 1.19.6 '  data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/topic/5521-pc-patch-1196/?preview=1' data-ipsHover-timeout='1.5'>
+								<span>
+									[PC] Patch 1.19.6
+								</span>
+							</a>
+
+							
+						</span>
+					</h4>
+					<div class='ipsDataItem_meta ipsType_reset ipsType_light ipsType_blendLinks'>
+						<span>
+							By 
+<a href='https://forums.gamersfirst.com/profile/8-lixil/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/8-lixil/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Lixil's profile" class="ipsType_break">Lixil</a>, 
+						</span><time datetime='2018-09-05T10:59:41Z' title='09/05/18 01:59  PM' data-short='Sep 5'>September 5</time>
+						
+						
+					</div>
+				</div>
+				<ul class='ipsDataItem_stats'>
+					
+						<li >
+							<span class='ipsDataItem_stats_number'>0</span>
+							<span class='ipsDataItem_stats_type'> replies</span>
+							
+						</li>
+					
+						<li class='ipsType_light'>
+							<span class='ipsDataItem_stats_number'>2826</span>
+							<span class='ipsDataItem_stats_type'> views</span>
+							
+						</li>
+					
+				</ul>
+				<ul class='ipsDataItem_lastPoster ipsDataItem_withPhoto ipsType_blendLinks'>
+					<li>
+						
+							
+
+
+	<a href="https://forums.gamersfirst.com/profile/8-lixil/" data-ipsHover data-ipsHover-target="https://forums.gamersfirst.com/profile/8-lixil/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Lixil's profile">
+		<img src='//forums-cdn.gamersfirst.com/monthly_2018_05/25281407_101299725653521ba766c1e.thumb.png.10842b13fca4efbd73c188b9aff9cca6.png' alt='Lixil'>
+	</a>
+
+						
+					</li>
+					<li>
+						
+							
+<a href='https://forums.gamersfirst.com/profile/8-lixil/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/8-lixil/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Lixil's profile" class="ipsType_break">Lixil</a>
+						
+					</li>
+					<li class="ipsType_light">
+						<a href='https://forums.gamersfirst.com/topic/5521-pc-patch-1196/?do=getLastComment' title='Go to last post' class='ipsType_blendLinks'>
+							<time datetime='2018-09-05T10:59:41Z' title='09/05/18 01:59  PM' data-short='Sep 5'>September 5</time>
+						</a>
+					</li>
+				</ul>
+				
+			</li>
+		
+	
+		
+		
+		
+		
+			<li class="ipsDataItem ipsDataItem_responsivePhoto   " data-rowID='3110'>
+				
+				<div class='ipsDataItem_main'>
+					<h4 class='ipsDataItem_title ipsContained_container'>
+						
+							<span>
+								<i class='ipsType_medium fa fa-lock' data-ipsTooltip title='This topic is locked'></i>
+							</span>	
+							
+						
+
+						
+						
+						
+														
+							
+								<span><span class="ipsBadge ipsBadge_icon ipsBadge_small ipsBadge_positive" data-ipsTooltip title='Pinned'><i class='fa fa-thumb-tack'></i></span></span>
+							
+							
+						
+										
+												
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://forums.gamersfirst.com/topic/3110-pc-otw-update-complete-patch-notes-1196-yesterday-and-today/' class='' title='[PC] OTW Update - Complete patch notes 1.19.6 (yesterday and today) '  data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/topic/3110-pc-otw-update-complete-patch-notes-1196-yesterday-and-today/?preview=1' data-ipsHover-timeout='1.5'>
+								<span>
+									[PC] OTW Update - Complete patch notes 1.19.6 (yesterday and today)
+								</span>
+							</a>
+
+							
+						</span>
+					</h4>
+					<div class='ipsDataItem_meta ipsType_reset ipsType_light ipsType_blendLinks'>
+						<span>
+							By 
+<a href='https://forums.gamersfirst.com/profile/14-mattscott/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/14-mattscott/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to MattScott's profile" class="ipsType_break">MattScott</a>, 
+						</span><time datetime='2018-08-01T00:58:45Z' title='08/01/18 03:58  AM' data-short='Aug 1'>August 1</time>
+						
+						
+					</div>
+				</div>
+				<ul class='ipsDataItem_stats'>
+					
+						<li >
+							<span class='ipsDataItem_stats_number'>1</span>
+							<span class='ipsDataItem_stats_type'> reply</span>
+							
+						</li>
+					
+						<li class='ipsType_light'>
+							<span class='ipsDataItem_stats_number'>3997</span>
+							<span class='ipsDataItem_stats_type'> views</span>
+							
+						</li>
+					
+				</ul>
+				<ul class='ipsDataItem_lastPoster ipsDataItem_withPhoto ipsType_blendLinks'>
+					<li>
+						
+							
+
+
+	<a href="https://forums.gamersfirst.com/profile/644-speee/" data-ipsHover data-ipsHover-target="https://forums.gamersfirst.com/profile/644-speee/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to speee's profile">
+		<img src='//forums-cdn.gamersfirst.com/monthly_2018_05/deusex.thumb.png.32679546e4fe32fe21ca962ed108f019.png' alt='speee'>
+	</a>
+
+						
+					</li>
+					<li>
+						
+							
+<a href='https://forums.gamersfirst.com/profile/644-speee/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/644-speee/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to speee's profile" class="ipsType_break">speee</a>
+						
+					</li>
+					<li class="ipsType_light">
+						<a href='https://forums.gamersfirst.com/topic/3110-pc-otw-update-complete-patch-notes-1196-yesterday-and-today/?do=getLastComment' title='Go to last post' class='ipsType_blendLinks'>
+							<time datetime='2018-08-01T01:02:02Z' title='08/01/18 04:02  AM' data-short='Aug 1'>August 1</time>
+						</a>
+					</li>
+				</ul>
+				
+			</li>
+		
+	
+		
+		
+		
+		
+			<li class="ipsDataItem ipsDataItem_responsivePhoto   " data-rowID='6189'>
+				
+				<div class='ipsDataItem_main'>
+					<h4 class='ipsDataItem_title ipsContained_container'>
+						
+							<span>
+								<i class='ipsType_medium fa fa-lock' data-ipsTooltip title='This topic is locked'></i>
+							</span>	
+							
+						
+
+						
+						
+						
+										
+												
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://forums.gamersfirst.com/topic/6189-pc-patch-1197-1025/' class='' title='[PC] Patch 1.19.7 (1025) '  data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/topic/6189-pc-patch-1197-1025/?preview=1' data-ipsHover-timeout='1.5'>
+								<span>
+									[PC] Patch 1.19.7 (1025)
+								</span>
+							</a>
+
+							
+						</span>
+					</h4>
+					<div class='ipsDataItem_meta ipsType_reset ipsType_light ipsType_blendLinks'>
+						<span>
+							By 
+<a href='https://forums.gamersfirst.com/profile/8-lixil/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/8-lixil/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Lixil's profile" class="ipsType_break">Lixil</a>, 
+						</span><time datetime='2018-10-18T00:09:14Z' title='10/18/18 03:09  AM' data-short='Oct 18'>October 18</time>
+						
+						
+					</div>
+				</div>
+				<ul class='ipsDataItem_stats'>
+					
+						<li >
+							<span class='ipsDataItem_stats_number'>0</span>
+							<span class='ipsDataItem_stats_type'> replies</span>
+							
+						</li>
+					
+						<li class='ipsType_light'>
+							<span class='ipsDataItem_stats_number'>1590</span>
+							<span class='ipsDataItem_stats_type'> views</span>
+							
+						</li>
+					
+				</ul>
+				<ul class='ipsDataItem_lastPoster ipsDataItem_withPhoto ipsType_blendLinks'>
+					<li>
+						
+							
+
+
+	<a href="https://forums.gamersfirst.com/profile/8-lixil/" data-ipsHover data-ipsHover-target="https://forums.gamersfirst.com/profile/8-lixil/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Lixil's profile">
+		<img src='//forums-cdn.gamersfirst.com/monthly_2018_05/25281407_101299725653521ba766c1e.thumb.png.10842b13fca4efbd73c188b9aff9cca6.png' alt='Lixil'>
+	</a>
+
+						
+					</li>
+					<li>
+						
+							
+<a href='https://forums.gamersfirst.com/profile/8-lixil/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/8-lixil/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Lixil's profile" class="ipsType_break">Lixil</a>
+						
+					</li>
+					<li class="ipsType_light">
+						<a href='https://forums.gamersfirst.com/topic/6189-pc-patch-1197-1025/?do=getLastComment' title='Go to last post' class='ipsType_blendLinks'>
+							<time datetime='2018-10-18T00:09:14Z' title='10/18/18 03:09  AM' data-short='Oct 18'>October 18</time>
+						</a>
+					</li>
+				</ul>
+				
+			</li>
+		
+	
+		
+		
+		
+		
+			<li class="ipsDataItem ipsDataItem_responsivePhoto   " data-rowID='5158'>
+				
+				<div class='ipsDataItem_main'>
+					<h4 class='ipsDataItem_title ipsContained_container'>
+						
+							<span>
+								<i class='ipsType_medium fa fa-lock' data-ipsTooltip title='This topic is locked'></i>
+							</span>	
+							
+						
+
+						
+						
+						
+										
+												
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://forums.gamersfirst.com/topic/5158-pc-patch-1196-1011/' class='' title='[PC] Patch 1.19.6 (1011) '  data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/topic/5158-pc-patch-1196-1011/?preview=1' data-ipsHover-timeout='1.5'>
+								<span>
+									[PC] Patch 1.19.6 (1011)
+								</span>
+							</a>
+
+							
+						</span>
+					</h4>
+					<div class='ipsDataItem_meta ipsType_reset ipsType_light ipsType_blendLinks'>
+						<span>
+							By 
+<a href='https://forums.gamersfirst.com/profile/13-selali/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/13-selali/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Selali's profile" class="ipsType_break">Selali</a>, 
+						</span><time datetime='2018-08-30T07:37:29Z' title='08/30/18 10:37  AM' data-short='Aug 30'>August 30</time>
+						
+						
+					</div>
+				</div>
+				<ul class='ipsDataItem_stats'>
+					
+						<li >
+							<span class='ipsDataItem_stats_number'>0</span>
+							<span class='ipsDataItem_stats_type'> replies</span>
+							
+						</li>
+					
+						<li class='ipsType_light'>
+							<span class='ipsDataItem_stats_number'>2708</span>
+							<span class='ipsDataItem_stats_type'> views</span>
+							
+						</li>
+					
+				</ul>
+				<ul class='ipsDataItem_lastPoster ipsDataItem_withPhoto ipsType_blendLinks'>
+					<li>
+						
+							
+
+
+	<a href="https://forums.gamersfirst.com/profile/13-selali/" data-ipsHover data-ipsHover-target="https://forums.gamersfirst.com/profile/13-selali/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Selali's profile">
+		<img src='//forums-cdn.gamersfirst.com/monthly_2018_05/319394576_jakeicon.thumb.png.95801df106d819280b8c2af0c87ba6de.png' alt='Selali'>
+	</a>
+
+						
+					</li>
+					<li>
+						
+							
+<a href='https://forums.gamersfirst.com/profile/13-selali/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/13-selali/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Selali's profile" class="ipsType_break">Selali</a>
+						
+					</li>
+					<li class="ipsType_light">
+						<a href='https://forums.gamersfirst.com/topic/5158-pc-patch-1196-1011/?do=getLastComment' title='Go to last post' class='ipsType_blendLinks'>
+							<time datetime='2018-08-30T07:37:29Z' title='08/30/18 10:37  AM' data-short='Aug 30'>August 30</time>
+						</a>
+					</li>
+				</ul>
+				
+			</li>
+		
+	
+		
+		
+		
+		
+			<li class="ipsDataItem ipsDataItem_responsivePhoto   " data-rowID='3563'>
+				
+				<div class='ipsDataItem_main'>
+					<h4 class='ipsDataItem_title ipsContained_container'>
+						
+							<span>
+								<i class='ipsType_medium fa fa-lock' data-ipsTooltip title='This topic is locked'></i>
+							</span>	
+							
+						
+
+						
+						
+						
+										
+												
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://forums.gamersfirst.com/topic/3563-pc-patch-1196/' class='' title='[PC] Patch 1.19.6 '  data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/topic/3563-pc-patch-1196/?preview=1' data-ipsHover-timeout='1.5'>
+								<span>
+									[PC] Patch 1.19.6
+								</span>
+							</a>
+
+							
+						</span>
+					</h4>
+					<div class='ipsDataItem_meta ipsType_reset ipsType_light ipsType_blendLinks'>
+						<span>
+							By 
+<a href='https://forums.gamersfirst.com/profile/8-lixil/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/8-lixil/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Lixil's profile" class="ipsType_break">Lixil</a>, 
+						</span><time datetime='2018-08-16T06:24:13Z' title='08/16/18 09:24  AM' data-short='Aug 16'>August 16</time>
+						
+						
+					</div>
+				</div>
+				<ul class='ipsDataItem_stats'>
+					
+						<li >
+							<span class='ipsDataItem_stats_number'>0</span>
+							<span class='ipsDataItem_stats_type'> replies</span>
+							
+						</li>
+					
+						<li class='ipsType_light'>
+							<span class='ipsDataItem_stats_number'>4308</span>
+							<span class='ipsDataItem_stats_type'> views</span>
+							
+						</li>
+					
+				</ul>
+				<ul class='ipsDataItem_lastPoster ipsDataItem_withPhoto ipsType_blendLinks'>
+					<li>
+						
+							
+
+
+	<a href="https://forums.gamersfirst.com/profile/8-lixil/" data-ipsHover data-ipsHover-target="https://forums.gamersfirst.com/profile/8-lixil/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Lixil's profile">
+		<img src='//forums-cdn.gamersfirst.com/monthly_2018_05/25281407_101299725653521ba766c1e.thumb.png.10842b13fca4efbd73c188b9aff9cca6.png' alt='Lixil'>
+	</a>
+
+						
+					</li>
+					<li>
+						
+							
+<a href='https://forums.gamersfirst.com/profile/8-lixil/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/8-lixil/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Lixil's profile" class="ipsType_break">Lixil</a>
+						
+					</li>
+					<li class="ipsType_light">
+						<a href='https://forums.gamersfirst.com/topic/3563-pc-patch-1196/?do=getLastComment' title='Go to last post' class='ipsType_blendLinks'>
+							<time datetime='2018-08-16T06:24:13Z' title='08/16/18 09:24  AM' data-short='Aug 16'>August 16</time>
+						</a>
+					</li>
+				</ul>
+				
+			</li>
+		
+	
+		
+		
+		
+		
+			<li class="ipsDataItem ipsDataItem_responsivePhoto   " data-rowID='3534'>
+				
+				<div class='ipsDataItem_main'>
+					<h4 class='ipsDataItem_title ipsContained_container'>
+						
+							<span>
+								<i class='ipsType_medium fa fa-lock' data-ipsTooltip title='This topic is locked'></i>
+							</span>	
+							
+						
+
+						
+						
+						
+										
+												
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://forums.gamersfirst.com/topic/3534-pc-patch-1196-updated/' class='' title='[PC] Patch 1.19.6 *UPDATED* '  data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/topic/3534-pc-patch-1196-updated/?preview=1' data-ipsHover-timeout='1.5'>
+								<span>
+									[PC] Patch 1.19.6 *UPDATED*
+								</span>
+							</a>
+
+							
+						</span>
+					</h4>
+					<div class='ipsDataItem_meta ipsType_reset ipsType_light ipsType_blendLinks'>
+						<span>
+							By 
+<a href='https://forums.gamersfirst.com/profile/13-selali/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/13-selali/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Selali's profile" class="ipsType_break">Selali</a>, 
+						</span><time datetime='2018-08-15T05:49:16Z' title='08/15/18 08:49  AM' data-short='Aug 15'>August 15</time>
+						
+						
+					</div>
+				</div>
+				<ul class='ipsDataItem_stats'>
+					
+						<li >
+							<span class='ipsDataItem_stats_number'>0</span>
+							<span class='ipsDataItem_stats_type'> replies</span>
+							
+						</li>
+					
+						<li class='ipsType_light'>
+							<span class='ipsDataItem_stats_number'>2946</span>
+							<span class='ipsDataItem_stats_type'> views</span>
+							
+						</li>
+					
+				</ul>
+				<ul class='ipsDataItem_lastPoster ipsDataItem_withPhoto ipsType_blendLinks'>
+					<li>
+						
+							
+
+
+	<a href="https://forums.gamersfirst.com/profile/13-selali/" data-ipsHover data-ipsHover-target="https://forums.gamersfirst.com/profile/13-selali/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Selali's profile">
+		<img src='//forums-cdn.gamersfirst.com/monthly_2018_05/319394576_jakeicon.thumb.png.95801df106d819280b8c2af0c87ba6de.png' alt='Selali'>
+	</a>
+
+						
+					</li>
+					<li>
+						
+							
+<a href='https://forums.gamersfirst.com/profile/13-selali/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/13-selali/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Selali's profile" class="ipsType_break">Selali</a>
+						
+					</li>
+					<li class="ipsType_light">
+						<a href='https://forums.gamersfirst.com/topic/3534-pc-patch-1196-updated/?do=getLastComment' title='Go to last post' class='ipsType_blendLinks'>
+							<time datetime='2018-08-15T05:49:17Z' title='08/15/18 08:49  AM' data-short='Aug 15'>August 15</time>
+						</a>
+					</li>
+				</ul>
+				
+			</li>
+		
+	
+		
+		
+		
+		
+			<li class="ipsDataItem ipsDataItem_responsivePhoto   " data-rowID='3296'>
+				
+				<div class='ipsDataItem_main'>
+					<h4 class='ipsDataItem_title ipsContained_container'>
+						
+							<span>
+								<i class='ipsType_medium fa fa-lock' data-ipsTooltip title='This topic is locked'></i>
+							</span>	
+							
+						
+
+						
+						
+						
+										
+												
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://forums.gamersfirst.com/topic/3296-pc-patch-1196/' class='' title='[PC] Patch 1.19.6 '  data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/topic/3296-pc-patch-1196/?preview=1' data-ipsHover-timeout='1.5'>
+								<span>
+									[PC] Patch 1.19.6
+								</span>
+							</a>
+
+							
+						</span>
+					</h4>
+					<div class='ipsDataItem_meta ipsType_reset ipsType_light ipsType_blendLinks'>
+						<span>
+							By 
+<a href='https://forums.gamersfirst.com/profile/13-selali/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/13-selali/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Selali's profile" class="ipsType_break">Selali</a>, 
+						</span><time datetime='2018-08-09T00:38:17Z' title='08/09/18 03:38  AM' data-short='Aug 9'>August 9</time>
+						
+						
+					</div>
+				</div>
+				<ul class='ipsDataItem_stats'>
+					
+						<li >
+							<span class='ipsDataItem_stats_number'>0</span>
+							<span class='ipsDataItem_stats_type'> replies</span>
+							
+						</li>
+					
+						<li class='ipsType_light'>
+							<span class='ipsDataItem_stats_number'>3800</span>
+							<span class='ipsDataItem_stats_type'> views</span>
+							
+						</li>
+					
+				</ul>
+				<ul class='ipsDataItem_lastPoster ipsDataItem_withPhoto ipsType_blendLinks'>
+					<li>
+						
+							
+
+
+	<a href="https://forums.gamersfirst.com/profile/13-selali/" data-ipsHover data-ipsHover-target="https://forums.gamersfirst.com/profile/13-selali/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Selali's profile">
+		<img src='//forums-cdn.gamersfirst.com/monthly_2018_05/319394576_jakeicon.thumb.png.95801df106d819280b8c2af0c87ba6de.png' alt='Selali'>
+	</a>
+
+						
+					</li>
+					<li>
+						
+							
+<a href='https://forums.gamersfirst.com/profile/13-selali/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/13-selali/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Selali's profile" class="ipsType_break">Selali</a>
+						
+					</li>
+					<li class="ipsType_light">
+						<a href='https://forums.gamersfirst.com/topic/3296-pc-patch-1196/?do=getLastComment' title='Go to last post' class='ipsType_blendLinks'>
+							<time datetime='2018-08-09T00:38:17Z' title='08/09/18 03:38  AM' data-short='Aug 9'>August 9</time>
+						</a>
+					</li>
+				</ul>
+				
+			</li>
+		
+	
+		
+		
+		
+		
+			<li class="ipsDataItem ipsDataItem_responsivePhoto   " data-rowID='3105'>
+				
+				<div class='ipsDataItem_main'>
+					<h4 class='ipsDataItem_title ipsContained_container'>
+						
+							<span>
+								<i class='ipsType_medium fa fa-lock' data-ipsTooltip title='This topic is locked'></i>
+							</span>	
+							
+						
+
+						
+						
+						
+										
+												
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://forums.gamersfirst.com/topic/3105-extended-maintenance-07312018/' class='' title='Extended Maintenance  07.31.2018 '  data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/topic/3105-extended-maintenance-07312018/?preview=1' data-ipsHover-timeout='1.5'>
+								<span>
+									Extended Maintenance  07.31.2018
+								</span>
+							</a>
+
+							
+						</span>
+					</h4>
+					<div class='ipsDataItem_meta ipsType_reset ipsType_light ipsType_blendLinks'>
+						<span>
+							By 
+<a href='https://forums.gamersfirst.com/profile/13-selali/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/13-selali/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Selali's profile" class="ipsType_break">Selali</a>, 
+						</span><time datetime='2018-07-31T19:25:25Z' title='07/31/18 10:25  PM' data-short='Jul 31'>July 31</time>
+						
+						
+					</div>
+				</div>
+				<ul class='ipsDataItem_stats'>
+					
+						<li >
+							<span class='ipsDataItem_stats_number'>17</span>
+							<span class='ipsDataItem_stats_type'> replies</span>
+							
+						</li>
+					
+						<li class='ipsType_light'>
+							<span class='ipsDataItem_stats_number'>1647</span>
+							<span class='ipsDataItem_stats_type'> views</span>
+							
+						</li>
+					
+				</ul>
+				<ul class='ipsDataItem_lastPoster ipsDataItem_withPhoto ipsType_blendLinks'>
+					<li>
+						
+							
+
+
+	<a href="https://forums.gamersfirst.com/profile/17-ritual/" data-ipsHover data-ipsHover-target="https://forums.gamersfirst.com/profile/17-ritual/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Ritual's profile">
+		<img src='//forums-cdn.gamersfirst.com/monthly_2018_05/7ce71ce90e3b0d1fb9e229b1ecdb4d7d--badass-anime-girl-anime-rock-girl.thumb.jpg.2e8e96120693bbf9da2f9c0fabdb51dc.jpg' alt='Ritual'>
+	</a>
+
+						
+					</li>
+					<li>
+						
+							
+<a href='https://forums.gamersfirst.com/profile/17-ritual/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/17-ritual/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Ritual's profile" class="ipsType_break">Ritual</a>
+						
+					</li>
+					<li class="ipsType_light">
+						<a href='https://forums.gamersfirst.com/topic/3105-extended-maintenance-07312018/?do=getLastComment' title='Go to last post' class='ipsType_blendLinks'>
+							<time datetime='2018-08-02T16:43:09Z' title='08/02/18 07:43  PM' data-short='Aug 2'>August 2</time>
+						</a>
+					</li>
+				</ul>
+				
+			</li>
+		
+	
+		
+		
+		
+		
+			<li class="ipsDataItem ipsDataItem_responsivePhoto   " data-rowID='2322'>
+				
+				<div class='ipsDataItem_main'>
+					<h4 class='ipsDataItem_title ipsContained_container'>
+						
+							<span>
+								<i class='ipsType_medium fa fa-lock' data-ipsTooltip title='This topic is locked'></i>
+							</span>	
+							
+						
+
+						
+						
+						
+										
+												
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://forums.gamersfirst.com/topic/2322-weekly-maintenance-pc-hotfix-742018/' class='' title='Weekly maintenance + [PC] Hotfix 7/4/2018 '  data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/topic/2322-weekly-maintenance-pc-hotfix-742018/?preview=1' data-ipsHover-timeout='1.5'>
+								<span>
+									Weekly maintenance + [PC] Hotfix 7/4/2018
+								</span>
+							</a>
+
+							
+						</span>
+					</h4>
+					<div class='ipsDataItem_meta ipsType_reset ipsType_light ipsType_blendLinks'>
+						<span>
+							By 
+<a href='https://forums.gamersfirst.com/profile/8-lixil/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/8-lixil/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Lixil's profile" class="ipsType_break">Lixil</a>, 
+						</span><time datetime='2018-07-03T23:21:31Z' title='07/04/18 02:21  AM' data-short='Jul 4'>July 4</time>
+						
+						
+					</div>
+				</div>
+				<ul class='ipsDataItem_stats'>
+					
+						<li >
+							<span class='ipsDataItem_stats_number'>0</span>
+							<span class='ipsDataItem_stats_type'> replies</span>
+							
+						</li>
+					
+						<li class='ipsType_light'>
+							<span class='ipsDataItem_stats_number'>2262</span>
+							<span class='ipsDataItem_stats_type'> views</span>
+							
+						</li>
+					
+				</ul>
+				<ul class='ipsDataItem_lastPoster ipsDataItem_withPhoto ipsType_blendLinks'>
+					<li>
+						
+							
+
+
+	<a href="https://forums.gamersfirst.com/profile/8-lixil/" data-ipsHover data-ipsHover-target="https://forums.gamersfirst.com/profile/8-lixil/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Lixil's profile">
+		<img src='//forums-cdn.gamersfirst.com/monthly_2018_05/25281407_101299725653521ba766c1e.thumb.png.10842b13fca4efbd73c188b9aff9cca6.png' alt='Lixil'>
+	</a>
+
+						
+					</li>
+					<li>
+						
+							
+<a href='https://forums.gamersfirst.com/profile/8-lixil/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/8-lixil/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Lixil's profile" class="ipsType_break">Lixil</a>
+						
+					</li>
+					<li class="ipsType_light">
+						<a href='https://forums.gamersfirst.com/topic/2322-weekly-maintenance-pc-hotfix-742018/?do=getLastComment' title='Go to last post' class='ipsType_blendLinks'>
+							<time datetime='2018-07-03T23:21:31Z' title='07/04/18 02:21  AM' data-short='Jul 4'>July 4</time>
+						</a>
+					</li>
+				</ul>
+				
+			</li>
+		
+	
+		
+		
+		
+		
+			<li class="ipsDataItem ipsDataItem_responsivePhoto   " data-rowID='2154'>
+				
+				<div class='ipsDataItem_main'>
+					<h4 class='ipsDataItem_title ipsContained_container'>
+						
+							<span>
+								<i class='ipsType_medium fa fa-lock' data-ipsTooltip title='This topic is locked'></i>
+							</span>	
+							
+						
+
+						
+						
+						
+										
+												
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://forums.gamersfirst.com/topic/2154-hotfix-6292018/' class='' title='Hotfix 6/29/2018 '  data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/topic/2154-hotfix-6292018/?preview=1' data-ipsHover-timeout='1.5'>
+								<span>
+									Hotfix 6/29/2018
+								</span>
+							</a>
+
+							
+						</span>
+					</h4>
+					<div class='ipsDataItem_meta ipsType_reset ipsType_light ipsType_blendLinks'>
+						<span>
+							By 
+<a href='https://forums.gamersfirst.com/profile/13-selali/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/13-selali/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Selali's profile" class="ipsType_break">Selali</a>, 
+						</span><time datetime='2018-06-29T05:43:49Z' title='06/29/18 08:43  AM' data-short='Jun 29'>June 29</time>
+						
+						
+					</div>
+				</div>
+				<ul class='ipsDataItem_stats'>
+					
+						<li >
+							<span class='ipsDataItem_stats_number'>0</span>
+							<span class='ipsDataItem_stats_type'> replies</span>
+							
+						</li>
+					
+						<li class='ipsType_light'>
+							<span class='ipsDataItem_stats_number'>3180</span>
+							<span class='ipsDataItem_stats_type'> views</span>
+							
+						</li>
+					
+				</ul>
+				<ul class='ipsDataItem_lastPoster ipsDataItem_withPhoto ipsType_blendLinks'>
+					<li>
+						
+							
+
+
+	<a href="https://forums.gamersfirst.com/profile/13-selali/" data-ipsHover data-ipsHover-target="https://forums.gamersfirst.com/profile/13-selali/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Selali's profile">
+		<img src='//forums-cdn.gamersfirst.com/monthly_2018_05/319394576_jakeicon.thumb.png.95801df106d819280b8c2af0c87ba6de.png' alt='Selali'>
+	</a>
+
+						
+					</li>
+					<li>
+						
+							
+<a href='https://forums.gamersfirst.com/profile/13-selali/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/13-selali/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Selali's profile" class="ipsType_break">Selali</a>
+						
+					</li>
+					<li class="ipsType_light">
+						<a href='https://forums.gamersfirst.com/topic/2154-hotfix-6292018/?do=getLastComment' title='Go to last post' class='ipsType_blendLinks'>
+							<time datetime='2018-06-29T05:43:49Z' title='06/29/18 08:43  AM' data-short='Jun 29'>June 29</time>
+						</a>
+					</li>
+				</ul>
+				
+			</li>
+		
+	
+		
+		
+		
+		
+			<li class="ipsDataItem ipsDataItem_responsivePhoto   " data-rowID='2066'>
+				
+				<div class='ipsDataItem_main'>
+					<h4 class='ipsDataItem_title ipsContained_container'>
+						
+							<span>
+								<i class='ipsType_medium fa fa-lock' data-ipsTooltip title='This topic is locked'></i>
+							</span>	
+							
+						
+
+						
+						
+						
+										
+												
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://forums.gamersfirst.com/topic/2066-pc-bug-fixes-patch-notes-1195/' class='' title='[PC] Bug fixes - Patch notes 1.19.5 '  data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/topic/2066-pc-bug-fixes-patch-notes-1195/?preview=1' data-ipsHover-timeout='1.5'>
+								<span>
+									[PC] Bug fixes - Patch notes 1.19.5
+								</span>
+							</a>
+
+							
+						</span>
+					</h4>
+					<div class='ipsDataItem_meta ipsType_reset ipsType_light ipsType_blendLinks'>
+						<span>
+							By 
+<a href='https://forums.gamersfirst.com/profile/8-lixil/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/8-lixil/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Lixil's profile" class="ipsType_break">Lixil</a>, 
+						</span><time datetime='2018-06-27T02:13:36Z' title='06/27/18 05:13  AM' data-short='Jun 27'>June 27</time>
+						
+						
+					</div>
+				</div>
+				<ul class='ipsDataItem_stats'>
+					
+						<li >
+							<span class='ipsDataItem_stats_number'>0</span>
+							<span class='ipsDataItem_stats_type'> replies</span>
+							
+						</li>
+					
+						<li class='ipsType_light'>
+							<span class='ipsDataItem_stats_number'>3867</span>
+							<span class='ipsDataItem_stats_type'> views</span>
+							
+						</li>
+					
+				</ul>
+				<ul class='ipsDataItem_lastPoster ipsDataItem_withPhoto ipsType_blendLinks'>
+					<li>
+						
+							
+
+
+	<a href="https://forums.gamersfirst.com/profile/8-lixil/" data-ipsHover data-ipsHover-target="https://forums.gamersfirst.com/profile/8-lixil/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Lixil's profile">
+		<img src='//forums-cdn.gamersfirst.com/monthly_2018_05/25281407_101299725653521ba766c1e.thumb.png.10842b13fca4efbd73c188b9aff9cca6.png' alt='Lixil'>
+	</a>
+
+						
+					</li>
+					<li>
+						
+							
+<a href='https://forums.gamersfirst.com/profile/8-lixil/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/8-lixil/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Lixil's profile" class="ipsType_break">Lixil</a>
+						
+					</li>
+					<li class="ipsType_light">
+						<a href='https://forums.gamersfirst.com/topic/2066-pc-bug-fixes-patch-notes-1195/?do=getLastComment' title='Go to last post' class='ipsType_blendLinks'>
+							<time datetime='2018-06-27T02:13:36Z' title='06/27/18 05:13  AM' data-short='Jun 27'>June 27</time>
+						</a>
+					</li>
+				</ul>
+				
+			</li>
+		
+	
+		
+		
+		
+		
+			<li class="ipsDataItem ipsDataItem_responsivePhoto   " data-rowID='1765'>
+				
+				<div class='ipsDataItem_main'>
+					<h4 class='ipsDataItem_title ipsContained_container'>
+						
+							<span>
+								<i class='ipsType_medium fa fa-lock' data-ipsTooltip title='This topic is locked'></i>
+							</span>	
+							
+						
+
+						
+						
+						
+										
+												
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://forums.gamersfirst.com/topic/1765-pc-bug-fixes-patch-notes-1195/' class='' title='[PC] Bug fixes - Patch notes 1.19.5 '  data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/topic/1765-pc-bug-fixes-patch-notes-1195/?preview=1' data-ipsHover-timeout='1.5'>
+								<span>
+									[PC] Bug fixes - Patch notes 1.19.5
+								</span>
+							</a>
+
+							
+						</span>
+					</h4>
+					<div class='ipsDataItem_meta ipsType_reset ipsType_light ipsType_blendLinks'>
+						<span>
+							By 
+<a href='https://forums.gamersfirst.com/profile/8-lixil/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/8-lixil/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Lixil's profile" class="ipsType_break">Lixil</a>, 
+						</span><time datetime='2018-06-18T23:28:30Z' title='06/19/18 02:28  AM' data-short='Jun 19'>June 19</time>
+						
+						
+					</div>
+				</div>
+				<ul class='ipsDataItem_stats'>
+					
+						<li >
+							<span class='ipsDataItem_stats_number'>0</span>
+							<span class='ipsDataItem_stats_type'> replies</span>
+							
+						</li>
+					
+						<li class='ipsType_light'>
+							<span class='ipsDataItem_stats_number'>4837</span>
+							<span class='ipsDataItem_stats_type'> views</span>
+							
+						</li>
+					
+				</ul>
+				<ul class='ipsDataItem_lastPoster ipsDataItem_withPhoto ipsType_blendLinks'>
+					<li>
+						
+							
+
+
+	<a href="https://forums.gamersfirst.com/profile/8-lixil/" data-ipsHover data-ipsHover-target="https://forums.gamersfirst.com/profile/8-lixil/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Lixil's profile">
+		<img src='//forums-cdn.gamersfirst.com/monthly_2018_05/25281407_101299725653521ba766c1e.thumb.png.10842b13fca4efbd73c188b9aff9cca6.png' alt='Lixil'>
+	</a>
+
+						
+					</li>
+					<li>
+						
+							
+<a href='https://forums.gamersfirst.com/profile/8-lixil/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/8-lixil/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Lixil's profile" class="ipsType_break">Lixil</a>
+						
+					</li>
+					<li class="ipsType_light">
+						<a href='https://forums.gamersfirst.com/topic/1765-pc-bug-fixes-patch-notes-1195/?do=getLastComment' title='Go to last post' class='ipsType_blendLinks'>
+							<time datetime='2018-06-18T23:28:30Z' title='06/19/18 02:28  AM' data-short='Jun 19'>June 19</time>
+						</a>
+					</li>
+				</ul>
+				
+			</li>
+		
+	
+		
+		
+		
+		
+			<li class="ipsDataItem ipsDataItem_responsivePhoto   " data-rowID='1479'>
+				
+				<div class='ipsDataItem_main'>
+					<h4 class='ipsDataItem_title ipsContained_container'>
+						
+							<span>
+								<i class='ipsType_medium fa fa-lock' data-ipsTooltip title='This topic is locked'></i>
+							</span>	
+							
+						
+
+						
+						
+						
+										
+												
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://forums.gamersfirst.com/topic/1479-pc-bug-fixes-patch-notes-1195/' class='' title='[PC] Bug fixes - Patch notes 1.19.5 '  data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/topic/1479-pc-bug-fixes-patch-notes-1195/?preview=1' data-ipsHover-timeout='1.5'>
+								<span>
+									[PC] Bug fixes - Patch notes 1.19.5
+								</span>
+							</a>
+
+							
+						</span>
+					</h4>
+					<div class='ipsDataItem_meta ipsType_reset ipsType_light ipsType_blendLinks'>
+						<span>
+							By 
+<a href='https://forums.gamersfirst.com/profile/8-lixil/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/8-lixil/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Lixil's profile" class="ipsType_break">Lixil</a>, 
+						</span><time datetime='2018-06-12T05:58:24Z' title='06/12/18 08:58  AM' data-short='Jun 12'>June 12</time>
+						
+						
+					</div>
+				</div>
+				<ul class='ipsDataItem_stats'>
+					
+						<li >
+							<span class='ipsDataItem_stats_number'>0</span>
+							<span class='ipsDataItem_stats_type'> replies</span>
+							
+						</li>
+					
+						<li class='ipsType_light'>
+							<span class='ipsDataItem_stats_number'>5119</span>
+							<span class='ipsDataItem_stats_type'> views</span>
+							
+						</li>
+					
+				</ul>
+				<ul class='ipsDataItem_lastPoster ipsDataItem_withPhoto ipsType_blendLinks'>
+					<li>
+						
+							
+
+
+	<a href="https://forums.gamersfirst.com/profile/8-lixil/" data-ipsHover data-ipsHover-target="https://forums.gamersfirst.com/profile/8-lixil/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Lixil's profile">
+		<img src='//forums-cdn.gamersfirst.com/monthly_2018_05/25281407_101299725653521ba766c1e.thumb.png.10842b13fca4efbd73c188b9aff9cca6.png' alt='Lixil'>
+	</a>
+
+						
+					</li>
+					<li>
+						
+							
+<a href='https://forums.gamersfirst.com/profile/8-lixil/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/8-lixil/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Lixil's profile" class="ipsType_break">Lixil</a>
+						
+					</li>
+					<li class="ipsType_light">
+						<a href='https://forums.gamersfirst.com/topic/1479-pc-bug-fixes-patch-notes-1195/?do=getLastComment' title='Go to last post' class='ipsType_blendLinks'>
+							<time datetime='2018-06-12T05:58:24Z' title='06/12/18 08:58  AM' data-short='Jun 12'>June 12</time>
+						</a>
+					</li>
+				</ul>
+				
+			</li>
+		
+	
+		
+		
+		
+		
+			<li class="ipsDataItem ipsDataItem_responsivePhoto   " data-rowID='1107'>
+				
+				<div class='ipsDataItem_main'>
+					<h4 class='ipsDataItem_title ipsContained_container'>
+						
+							<span>
+								<i class='ipsType_medium fa fa-lock' data-ipsTooltip title='This topic is locked'></i>
+							</span>	
+							
+						
+
+						
+						
+						
+										
+												
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://forums.gamersfirst.com/topic/1107-pc-battleye-update-patch-notes-1195/' class='' title='[PC] BattlEye Update - Patch Notes 1.19.5 '  data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/topic/1107-pc-battleye-update-patch-notes-1195/?preview=1' data-ipsHover-timeout='1.5'>
+								<span>
+									[PC] BattlEye Update - Patch Notes 1.19.5
+								</span>
+							</a>
+
+							
+						</span>
+					</h4>
+					<div class='ipsDataItem_meta ipsType_reset ipsType_light ipsType_blendLinks'>
+						<span>
+							By 
+<a href='https://forums.gamersfirst.com/profile/8-lixil/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/8-lixil/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Lixil's profile" class="ipsType_break">Lixil</a>, 
+						</span><time datetime='2018-06-08T06:35:39Z' title='06/08/18 09:35  AM' data-short='Jun 8'>June 8</time>
+						
+						
+					</div>
+				</div>
+				<ul class='ipsDataItem_stats'>
+					
+						<li >
+							<span class='ipsDataItem_stats_number'>0</span>
+							<span class='ipsDataItem_stats_type'> replies</span>
+							
+						</li>
+					
+						<li class='ipsType_light'>
+							<span class='ipsDataItem_stats_number'>4873</span>
+							<span class='ipsDataItem_stats_type'> views</span>
+							
+						</li>
+					
+				</ul>
+				<ul class='ipsDataItem_lastPoster ipsDataItem_withPhoto ipsType_blendLinks'>
+					<li>
+						
+							
+
+
+	<a href="https://forums.gamersfirst.com/profile/8-lixil/" data-ipsHover data-ipsHover-target="https://forums.gamersfirst.com/profile/8-lixil/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Lixil's profile">
+		<img src='//forums-cdn.gamersfirst.com/monthly_2018_05/25281407_101299725653521ba766c1e.thumb.png.10842b13fca4efbd73c188b9aff9cca6.png' alt='Lixil'>
+	</a>
+
+						
+					</li>
+					<li>
+						
+							
+<a href='https://forums.gamersfirst.com/profile/8-lixil/' data-ipsHover data-ipsHover-target='https://forums.gamersfirst.com/profile/8-lixil/?do=hovercard&amp;referrer=https%253A%252F%252Fforums.gamersfirst.com%252Fforum%252F85-game-updates%252F' title="Go to Lixil's profile" class="ipsType_break">Lixil</a>
+						
+					</li>
+					<li class="ipsType_light">
+						<a href='https://forums.gamersfirst.com/topic/1107-pc-battleye-update-patch-notes-1195/?do=getLastComment' title='Go to last post' class='ipsType_blendLinks'>
+							<time datetime='2018-06-08T06:35:39Z' title='06/08/18 09:35  AM' data-short='Jun 8'>June 8</time>
+						</a>
+					</li>
+				</ul>
+				
+			</li>
+		
+	
+
+			</ol>
+		
+	
+
+	
+</div>
+</div>
+
+	<div class='ipsResponsive_showPhone ipsResponsive_block ipsSpacer ipsSpacer_both'>
+		
+
+<div data-followApp='forums' data-followArea='forum' data-followID='85' data-controller='core.front.core.followButton'>
+	
+		<span class='ipsType_light ipsType_blendLinks ipsResponsive_hidePhone ipsResponsive_inline'><i class='fa fa-info-circle'></i> <a href='https://forums.gamersfirst.com/login/' title='Go to the sign in page'>Sign in to follow this</a>&nbsp;&nbsp;</span>
+	
+	
+
+	<div class="ipsFollow ipsPos_middle ipsButton ipsButton_link ipsButton_verySmall " data-role="followButton">
+		
+			<a href='https://forums.gamersfirst.com/index.php?app=core&amp;module=system&amp;controller=notifications&amp;do=followers&amp;follow_app=forums&amp;follow_area=forum&amp;follow_id=85' title='See who follows this' class='ipsType_blendLinks ipsType_noUnderline' data-ipsTooltip data-ipsDialog data-ipsDialog-size='narrow' data-ipsDialog-title='Who follows this'>Followers</a>
+			<a class='ipsCommentCount' href='https://forums.gamersfirst.com/index.php?app=core&amp;module=system&amp;controller=notifications&amp;do=followers&amp;follow_app=forums&amp;follow_area=forum&amp;follow_id=85' title='See who follows this' data-ipsTooltip data-ipsDialog data-ipsDialog-size='narrow' data-ipsDialog-title='Who follows this'>9</a>
+		
+	</div>
+
+</div>
+	</div>
+
+
+
+										
+
+
+									</div>
+									
+
+
+								</div>
+							</div>
+							
+						</div>
+						
+<div class='ipsfocus_megaFooter colCount1'>
+	
+	<div class='ipsLayout_container footerCols'>
+	
+		<div class='footerCol'>
+			<div class="footerLinks"><a href="https://www.gamersfirst.com/privacy/" target="_blank">Privacy Policy</a>   |   <a href="/guidelines/">Forum Rules</a>   |   <a href="/topic/99-code-of-conduct/">Code Of Conduct</a></div>
+		</div>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	</div>
+	
+</div>
+						
+<nav class='ipsBreadcrumb ipsBreadcrumb_bottom ipsFaded_withHover'>
+	
+		
+
+
+	<a href='#' id='elRSS' class='ipsPos_right ipsType_large' title='Available RSS feeds' data-ipsTooltip data-ipsMenu data-ipsMenu-above><i class='fa fa-rss-square'></i></a>
+	<ul id='elRSS_menu' class='ipsMenu ipsMenu_auto ipsHide'>
+		
+			<li class='ipsMenu_item'><a title="Game Updates Latest Topics" href="https://forums.gamersfirst.com/forum/85-game-updates.xml/">Game Updates Latest Topics</a></li>
+		
+	</ul>
+
+	
+
+	<ul class='ipsList_inline ipsPos_right'>
+		
+		<li >
+			<a data-action="defaultStream" class='ipsType_light '  href='https://forums.gamersfirst.com/discover/'><i class='icon-newspaper'></i> <span>All Activity</span></a>
+		</li>
+		
+	</ul>
+
+	<ul data-role="breadcrumbList">
+		<li>
+			<a title="Home" href='https://forums.gamersfirst.com/'>
+				<span><i class='fa fa-home'></i> Home <i class='fa fa-angle-right'></i></span>
+			</a>
+		</li>
+		
+		
+			<li>
+				
+					<a href='https://forums.gamersfirst.com/forum/3-apb-reloaded/'>
+						<span>APB Reloaded <i class='fa fa-angle-right'></i></span>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					<a href='https://forums.gamersfirst.com/forum/4-news-announcements/'>
+						<span>News &amp; Announcements <i class='fa fa-angle-right'></i></span>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					<a href='https://forums.gamersfirst.com/forum/5-game-news/'>
+						<span>Game News <i class='fa fa-angle-right'></i></span>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					Game Updates
+				
+			</li>
+		
+	</ul>
+</nav>
+						
+					</div>
+				</main>
+				<footer id='ipsLayout_footer'>
+					
+					<div class='ipsLayout_container'>
+						
+
+<ul class='ipsList_inline ipsType_center ipsSpacer_top' id="elFooterLinks">
+	
+	
+	
+	
+		<li>
+			<a href='#elNavTheme_menu' id='elNavTheme' data-ipsMenu data-ipsMenu-above>Theme <i class='fa fa-caret-down'></i></a>
+			<ul id='elNavTheme_menu' class='ipsMenu ipsMenu_selectable ipsHide'>
+			
+				
+					<li class='ipsMenu_item ipsMenu_itemChecked'>
+						<form action="//forums.gamersfirst.com/theme/?csrfKey=6335b84ecb4ddd137ae5fe30fe0a0e73" method="post">
+						<button type='submit' name='id' value='3' class='ipsButton ipsButton_link'>GamersFirst (Default)</button>
+						</form>
+					</li>
+				
+			
+				
+					<li class='ipsMenu_item'>
+						<form action="//forums.gamersfirst.com/theme/?csrfKey=6335b84ecb4ddd137ae5fe30fe0a0e73" method="post">
+						<button type='submit' name='id' value='5' class='ipsButton ipsButton_link'>APB Reloaded </button>
+						</form>
+					</li>
+				
+			
+				
+					<li class='ipsMenu_item'>
+						<form action="//forums.gamersfirst.com/theme/?csrfKey=6335b84ecb4ddd137ae5fe30fe0a0e73" method="post">
+						<button type='submit' name='id' value='6' class='ipsButton ipsButton_link'>Fallen Earth </button>
+						</form>
+					</li>
+				
+			
+			</ul>
+		</li>
+	
+	
+	
+</ul>
+
+
+<ul class='ipsfocus_social iconButtons'>
+	<li><a href="https://www.facebook.com/GamersFirst/" target="_blank">Facebook</a></li>
+</ul>
+
+
+
+
+<p id='elCopyright'>
+	<span id='elCopyright_userLine'>© 2010-2018 Little Orbit, LLC. All Rights Reserved.</span>
+	<a rel='nofollow' title='Invision Community' href='https://www.invisioncommunity.com/'>Powered by Invision Community</a>
+</p>
+					</div>
+				</footer>
+				
+			</div>
+		
+		</div>
+		
+		
+<div id='elMobileDrawer' class='ipsDrawer ipsHide'>
+	<a href='#' class='ipsDrawer_close' data-action='close'><span>×</span></a>
+	<div class='ipsDrawer_menu'>
+		<div class='ipsDrawer_content'>
+			
+
+			
+
+				<div class='ipsSpacer_bottom ipsPad'>
+					<ul class='ipsToolList ipsToolList_vertical'>
+						
+						<li>
+							<a href='https://forums.gamersfirst.com/login/' class='ipsButton ipsButton_light ipsButton_small ipsButton_fullWidth'>Existing user? Sign In</a>
+						</li>
+						
+							<li>
+								
+									<a href='https://register.gamersfirst.com' target="_blank" rel="noopener" class='ipsButton ipsButton_small ipsButton_fullWidth ipsButton_important'>Sign Up</a>
+								
+							</li>
+						
+
+					</ul>
+				</div>
+
+			
+
+			<ul class='ipsDrawer_list'>
+				
+
+				
+				
+				
+				
+					
+						
+						
+							<li class='ipsDrawer_itemParent'>
+								<h4 class='ipsDrawer_title'><a href='#'>Browse</a></h4>
+								<ul class='ipsDrawer_list'>
+									<li data-action="back"><a href='#'>Back</a></li>
+									
+										<li><a href='https://forums.gamersfirst.com'>Browse</a></li>
+									
+									
+									
+										
+
+
+	
+
+	
+		
+			<li>
+				<a href='https://forums.gamersfirst.com' >
+					Forums
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://forums.gamersfirst.com/guidelines/' >
+					Forum Rules
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://forums.gamersfirst.com/staff/' >
+					Staff
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://forums.gamersfirst.com/online/' >
+					Online Users
+				</a>
+			</li>
+		
+	
+
+	
+
+										
+								</ul>
+							</li>
+						
+					
+				
+					
+						
+						
+							<li class='ipsDrawer_itemParent'>
+								<h4 class='ipsDrawer_title'><a href='#'>Activity</a></h4>
+								<ul class='ipsDrawer_list'>
+									<li data-action="back"><a href='#'>Back</a></li>
+									
+										<li><a href='https://forums.gamersfirst.com/discover/'>Activity</a></li>
+									
+									
+									
+										
+
+
+	
+		
+			<li>
+				<a href='https://forums.gamersfirst.com/discover/' >
+					All Activity
+				</a>
+			</li>
+		
+	
+
+	
+
+	
+		
+			<li>
+				<a href='https://forums.gamersfirst.com/discover/6/' >
+					Admin Tracker
+				</a>
+			</li>
+		
+	
+
+	
+
+	
+
+	
+		
+			<li>
+				<a href='https://forums.gamersfirst.com/search/' >
+					Search
+				</a>
+			</li>
+		
+	
+
+	
+
+										
+								</ul>
+							</li>
+						
+					
+				
+					
+						
+						
+							<li><a href='https://forums.gamersfirst.com/guidelines/' >Forum Rules</a></li>
+						
+					
+				
+					
+						
+						
+							<li><a href='https://support.gamersfirst.com' target='_blank' rel="noopener">Support</a></li>
+						
+					
+				
+			</ul>
+		</div>
+	</div>
+</div>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<!--ipsQueryLog-->
+		<!--ipsCachingLog-->
+		
+		
+	</body>
+</html>
